@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_my_first_concept" path="topics/c_my_first_concept.html"/>
+   <appContext helpID="r_my_first_ref" path="topics/r_my_first_ref.html"/>
+   <appContext helpID="t_my_first_task" path="topics/t_my_first_task.html"/>
+   <appContext helpID="Untitled" path="topics/top_my_first_topic.html"/>
+   <appContext helpID="Untitled" path="topics/top_my_first_topic.html"/>
+   <appContext helpID="t_my_first_task" path="topics/t_my_first_task.html"/>
+   <appContext helpID="r_my_first_ref" path="topics/r_my_first_ref.html"/>
+   <appContext helpID="t_my_first_task" path="topics/t_my_first_task.html"/>
+   <appContext helpID="r_my_first_ref" path="topics/r_my_first_ref.html"/>
+   <appContext helpID="Untitled" path="topics/top_my_first_topic.html"/>
+</map>
