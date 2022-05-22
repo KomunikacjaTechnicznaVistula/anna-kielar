@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Ania/Desktop/anna-kielar/pierwsza%20pomoc%20przedweterynaryjna/topics/pierwsza_pomoc_przedweterynaryjna.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Pierwsza pomoc przedweterynaryjna</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Pierwsza pomoc przedweterynaryjna</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_wstep_przygotowanie"><resourceid appid="t_wstep_przygotowanie" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Wstęp</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zanim rozpoczniesz udzielanie pomocy.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_zdarzenie"><resourceid appid="c_zdarzenie" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Zdarzenie</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_atak_paniki"><resourceid appid="t_atak_paniki" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Atak paniki</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zwierzę trzęsie się, ucieka lub jest sparaliżowane ze strachu.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_krwawienie"><resourceid appid="t_krwawienie" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Krwawienie</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zwierzę skaleczyło się, rana krwawi.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_obrazenia_oczu"><resourceid appid="t_obrazenia_oczu" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Obrażenia oczu</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zwierzę intensywnie mruga lub nie może otworzyć oka.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_odmrozenie_hipotermia"><resourceid appid="t_odmrozenie_hipotermia" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Odmrożenie/hipotermia</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zwierzę wychłodziło się, jest osłabione, brak czucia.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_oparzenie_cieplem"><resourceid appid="t_oparzenie_cieplem" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Oparzenie ciepłem</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zwierzę oparzyło się np. wrzątkiem.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_oparzenie"><resourceid appid="t_oparzenie" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Oparzenie substancją</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zwierzę spożyło lub dotknęło żrącej substancji.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_rany_i_otarcia"><resourceid appid="t_rany_i_otarcia" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Otarcia</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zwierzę ma zdarty naskórek, np. na spodniej części łap.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_porazenie_pradem"><resourceid appid="t_porazenie_pradem" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Porażenie prądem</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zwierzę zostało porażone, np. wskutek przegryzienia kabla.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_rany_ciete"><resourceid appid="t_rany_ciete" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Rany cięte</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zwierzę rozdarło skórę np. o ostre narzędzie.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_rany_klute"><resourceid appid="t_rany_klute" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Rany kłute</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zwierzę doznało głębokiego punktowego skaleczenia.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_rany_szarpane"><resourceid appid="t_rany_szarpane" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Rany szarpane</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zwierzę ma rozerwaną skórę, np. wskutek ugryzienia.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_udar_cieplny"><resourceid appid="t_udar_cieplny" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Udar cieplny</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zwierzę dyszy, łapczywie chwyta powietrze, jest wyczerpane, ma ciemnoczerwone         dziąsła, możliwa utrata przytomności.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_zadlawienie"><resourceid appid="t_zadlawienie" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Zadławienie</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zwierzę krztusi się, próbuje wymiotować.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_zatrucie_pokarmowe"><resourceid appid="t_zatrucie_pokarmowe" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Zatrucie u psa</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Pies ma bolesny brzuch, biegunkę, wymiotuje.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_zatrucie_reszta"><resourceid appid="t_zatrucie_reszta" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Zatrucie u kota/gryzonia</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Kot lub gryzoń ma bolesny brzuch, biegunkę, wymioty.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_18" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_zlamanie"><resourceid appid="t_zlamanie" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Złamanie</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zwierzę doznało złamania kości, możliwe przerwanie ciągłości skóry.</shortdesc></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_19" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_apteczka"><resourceid appid="c_apteczka" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Apteczka</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_20" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="top_apteczka_preparaty_apteczne"><resourceid appid="top_apteczka_preparaty_apteczne" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Akcesoria</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="top_apteczka_preparaty_apteczne"><resourceid appid="top_apteczka_preparaty_apteczne" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Preparaty apteczne</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_22" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="top_apteczka_preparaty_apteczne"><resourceid appid="top_apteczka_preparaty_apteczne" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">Artykuły spożywcze</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+</opentopic:map><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="t_wstep_przygotowanie" oid="t_wstep_przygotowanie" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Wstęp</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zanim rozpoczniesz udzielanie pomocy.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Za chwilę rozpoczniesz udzielanie pierwszej pomocy przedweterynaryjnej. <b class="+ topic/ph hi-d/b ">Weź
+                    głęboki wdech i przygotuj się do działania.</b></p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Oceń sytuację oraz stan zwierzęcia:</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_1_Connect_42_substeps_ut4_h4q_ltb" nd:nd-id="substeps_ut4_h4q_ltb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Jeśli to możliwe i konieczne, poproś innych uczestników zdarzenia o
+                            kontakt z zaufanym lub najbliższym weterynarzem w okolicy. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Jeśli jesteś sam(a), zdecyduj, czy zadzwonisz do weterynarza przed czy
+                            po udzieleniu pierwszej pomocy.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Jeśli udzielasz pomocy nieznanemu zwierzęciu, pamiętaj, że może
+                            stanowić dla Ciebie potencjalne zagrożenie. Udzielaj pomocy z najwyższą
+                            ostrożnością.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Upewnij się, że zagrożenie minęło i możesz bezpiecznie udzielić pomocy.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Przygotuj apteczkę lub materiały zamienne, które masz pod ręką.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Jeśli masz taką możliwość, poproś innych uczestników zdarzenia o czytanie Ci
+                    instrukcji postępowania na głos i przygotowywanie kolejnych rzeczy z
+                    apteczki.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Zachowaj spokój udzielając pomocy. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Ustal kolejność działań i działaj metodycznie:</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_1_Connect_42_substeps_dhb_l4q_ltb" nd:nd-id="substeps_dhb_l4q_ltb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Zajmij się <b class="+ topic/ph hi-d/b ">stanami niebezpiecznymi dla życia</b> zwierzęcia -
+                            niewyczuwalne tętno, bezdech, silne krwawienie.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Zajmij się <b class="+ topic/ph hi-d/b ">obrażeniami sprawiającymi największy ból</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Zajmij się <b class="+ topic/ph hi-d/b ">obrażeniami lżejszymi</b>.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Po zakończeniu udzielania pomocy przygotuj się na transport zwierzęcia do
+                    weterynarza. Jeśli to możliwe, zabierz ze sobą książeczkę zdrowia
+                    zwierzęcia.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="c_zdarzenie" oid="c_zdarzenie" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Zdarzenie</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="t_atak_paniki" oid="t_atak_paniki" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Atak paniki</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zwierzę trzęsie się, ucieka lub jest sparaliżowane ze strachu.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_3_Connect_42_prereq_yjs_2xp_ltb" nd:nd-id="prereq_yjs_2xp_ltb"><note class="- topic/note " id="unique_3_Connect_42_note_q5t_wzp_ptb" nd:nd-id="note_q5t_wzp_ptb">Niektóre zwierzęta pod wpływem
+                konkretnych bodźców wpadają w panikę, np. podczas burzy czy wybuchu
+                fajerwerków.</note><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_3_Connect_42_ul_mh1_3g4_4tb" nd:nd-id="ul_mh1_3g4_4tb">
+                <li class="- topic/li ">Woreczek plastikowy</li>
+                <li class="- topic/li ">Leki uspokajające wcześniej zalecone przez weterynarza</li>
+            </ul></prereq>
+        <context class="- topic/section task/context " id="unique_3_Connect_42_context_rdy_tg4_4tb" nd:nd-id="context_rdy_tg4_4tb"><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Oceń, czy bodziec już się pojawił:</cmd>
+                <choices class="- topic/ul task/choices " id="unique_3_Connect_42_choices_op3_ydq_ltb" nd:nd-id="choices_op3_ydq_ltb">
+                    <choice class="- topic/li task/choice ">Jeszcze nie, ale się go spodziewasz - profilaktycznie podaj naturalne
+                        środki uspokajające (np. krople konopne, krople walerianowe, tryptofan w
+                        tabletkach) na około pół godziny przed wystąpieniem bodźca.<ul class="- topic/ul " id="unique_3_Connect_42_ul_qkx_dr4_4tb" nd:nd-id="ul_qkx_dr4_4tb">
+                            <li class="- topic/li ">Jeśli stres jest wyjątkowo silny, zastosuj przepisany przez
+                                weterynarza silny lek przeciwlękowy na receptę, np. Xanax czy
+                                Relanium.</li>
+                        </ul></choice>
+                    <choice class="- topic/li task/choice ">Już tak - podaj zaproponowane powyżej środki lub leki i zapewnij
+                        zwierzęciu bezpieczne środowisko, np. w pokoju z zasłoniętymi oknami, w
+                        łazience bez okien albo w ramionach człowieka.</choice>
+                </choices>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Upewnij się, że zwierzę nie zrobi sobie krzywdy np. podczas ucieczki.</cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_3_Connect_42_postreq_qpp_lxp_ltb" nd:nd-id="postreq_qpp_lxp_ltb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_3_Connect_42_ul_un4_mg4_4tb" nd:nd-id="ul_un4_mg4_4tb">
+                <li class="- topic/li ">Nie planuj spaceru z psem, jeśli wiesz, że zbliża się burza albo inne zjawisko
+                    stresogenne - pies może zerwać się ze smyczy i się zgubić albo wpaść pod
+                    samochód.</li>
+                <li class="- topic/li ">Zapewnij zwierzęciu poczucie bezpieczeństwa.</li>
+            </ul></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="t_krwawienie" oid="t_krwawienie" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Krwawienie</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zwierzę skaleczyło się, rana krwawi.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_4_Connect_42_prereq_ejk_fm4_4tb" nd:nd-id="prereq_ejk_fm4_4tb"><note class="- topic/note " id="unique_4_Connect_42_note_ogk_sl4_4tb" nd:nd-id="note_ogk_sl4_4tb" type="attention">
+                <p class="- topic/p " dir="ltr" id="unique_4_Connect_42_docs-internal-guid-c6ec33ac-7fff-8944-07de-603a55bc3aa1" nd:nd-id="docs-internal-guid-c6ec33ac-7fff-8944-07de-603a55bc3aa1">Nie czyść
+                    rany <b class="+ topic/ph hi-d/b ">przed </b>zatamowaniem krwawienia!</p>
+                <p class="- topic/p " dir="ltr">Nie czyść świeżej rany <b class="+ topic/ph hi-d/b ">materiałem </b>- może to spowodować większe
+                    krwawienie!</p>
+                <p class="- topic/p ">Jeśli nie potrafisz, nie stosuj <b class="+ topic/ph hi-d/b ">opasek uciskowych</b>!</p>
+            </note><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_4_Connect_42_docs-internal-guid-69edee49-7fff-a14e-c291-351d6860d994" nd:nd-id="docs-internal-guid-69edee49-7fff-a14e-c291-351d6860d994">
+                <li class="- topic/li " dir="ltr">Plaster w rolce</li>
+                <li class="- topic/li " dir="ltr">Gazik/kompres sterylny lub tampon (wata owinięta gazą)</li>
+                <li class="- topic/li " dir="ltr">Lód owinięty ściereczką lub opatrunek żelowy chłodzący</li>
+                <li class="- topic/li " dir="ltr">Bandaż elastyczny lub weterynaryjny</li>
+                <li class="- topic/li " dir="ltr">Rękawiczki jednorazowe</li>
+            </ul></prereq>
+        <context class="- topic/section task/context "><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps " id="unique_4_Connect_42_steps_sxw_2n4_4tb" nd:nd-id="steps_sxw_2n4_4tb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Skutecznie unieruchom zwierzę pewnym chwytem.</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_4_Connect_42_substeps_zgy_mn4_4tb" nd:nd-id="substeps_zgy_mn4_4tb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Jeśli to możliwe, poproś o pomoc uczestnika zdarzenia.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Czy miejsce krwawienia jest <b class="+ topic/ph hi-d/b ">łatwo dostępne</b>?</cmd>
+                <choices class="- topic/ul task/choices " id="unique_4_Connect_42_choices_xvg_qn4_4tb" nd:nd-id="choices_xvg_qn4_4tb">
+                    <choice class="- topic/li task/choice ">Jeśli tak, zastosuj gazik/kompres lub przyłóż swoją dłoń i bezpośrednio
+                        uciskaj krwawiące miejsce.<ul class="- topic/ul " id="unique_4_Connect_42_ul_r1t_gp4_4tb" nd:nd-id="ul_r1t_gp4_4tb">
+                            <li class="- topic/li ">Mniejsze rany uciskaj kciukiem i palcem wskazującym.</li>
+                            <li class="- topic/li ">Większe rany uciskaj całą dłonią.</li>
+                        </ul></choice>
+                    <choice class="- topic/li task/choice ">Jeśli nie, owiń lód w ściereczkę i zastosuj okład aż do ustąpienia
+                        krwawienia.</choice>
+                </choices>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Oceń rodzaj krwotoku łatwo dostępnego:</cmd>
+                <choices class="- topic/ul task/choices " id="unique_4_Connect_42_choices_anl_344_4tb" nd:nd-id="choices_anl_344_4tb">
+                    <choice class="- topic/li task/choice ">Krew sączy się:<ol class="- topic/ol " id="unique_4_Connect_42_ol_e3f_cq4_4tb" nd:nd-id="ol_e3f_cq4_4tb">
+                            <li class="- topic/li ">Uciskając zranione miejsce, sprawdzaj co paręnaście sekund, czy
+                                krwotok ustąpił.</li>
+                            <li class="- topic/li ">Zabezpiecz ranę opatrunkiem i plastrem tak, aby zwierzę nie
+                                wylizywało rany.</li>
+                        </ol></choice>
+                    <choice class="- topic/li task/choice ">Krew wypływa strumieniem:<ol class="- topic/ol " id="unique_4_Connect_42_ol_inx_2q4_4tb" nd:nd-id="ol_inx_2q4_4tb">
+                            <li class="- topic/li ">Przyłóż gazik i mocno uciskaj miejsce zranienia przez 30
+                                sekund.</li>
+                            <li class="- topic/li ">Pozostaw gazik i owiń go ściśle bandażem.</li>
+                            <li class="- topic/li ">Po 30 minutach usuń bandaż i oceń stan rany. Jeśli krwawienie
+                                wznowiło się, ponownie załóż nowy gazik i bandaż uciskowy.</li>
+                        </ol></choice>
+                    <choice class="- topic/li task/choice ">Jasnoczerwona krew wypływa z rany gwałtownie, pulsując:<ol class="- topic/ol " id="unique_4_Connect_42_ol_hwx_jq4_4tb" nd:nd-id="ol_hwx_jq4_4tb">
+                            <li class="- topic/li ">Przyłóż gazik i bardzo mocno uciskaj miejsce zranienia przez 30
+                                sekund.</li>
+                            <li class="- topic/li ">Pozostaw gazik i owiń go ściśle bandażem. Jeśli krew przedostaje się
+                                przez opatrunek, zastosuj dodatkowy bandaż i owiń go nieco
+                                ciaśniej.</li>
+                            <li class="- topic/li ">Unieruchom zwierzę, przygotuj je do transportu i <b class="+ topic/ph hi-d/b ">udaj się do
+                                    weterynarza</b>.</li>
+                        </ol></choice>
+                </choices>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Po pół godzinie od założenia bandaża skontroluj, czy miejsce poniżej bandaża
+                    opuchło, zmieniło kolor lub oziębło:</cmd>
+                <choices class="- topic/ul task/choices " id="unique_4_Connect_42_choices_qn2_qq4_4tb" nd:nd-id="choices_qn2_qq4_4tb">
+                    <choice class="- topic/li task/choice ">Jeśli tak, usuń poprzedni bandaż i załóż nowy nieco luźniej.</choice>
+                </choices>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_4_Connect_42_postreq_zdx_sq4_4tb" nd:nd-id="postreq_zdx_sq4_4tb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_4_Connect_42_ul_rmg_g2w_ptb" nd:nd-id="ul_rmg_g2w_ptb">
+                <li class="- topic/li ">Nie spuszczaj psa ze smyczy na nieznanym otwartym terenie - w trawie może
+                    znajdować się rozbite szkło lub zardzewiałe elementy.</li>
+                <li class="- topic/li ">Zabierz ostre/niebezpieczne przedmioty z zasięgu zwierzęcia.</li>
+                <li class="- topic/li ">Wydziel przestrzeń, w której zwierzę może bezpiecznie przebywać bez
+                    nadzoru.</li>
+            </ul></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="t_obrazenia_oczu" oid="t_obrazenia_oczu" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Obrażenia oczu</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zwierzę intensywnie mruga lub nie może otworzyć oka.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_5_Connect_42_prereq_csf_kr4_4tb" nd:nd-id="prereq_csf_kr4_4tb"><note class="- topic/note " id="unique_5_Connect_42_note_o2t_sr4_4tb" nd:nd-id="note_o2t_sr4_4tb" type="attention">Opatrywanie oka
+                jest może być wyjątkowo niekomfortowe i bolesne. Upewnij się, że zwierzę w
+                przypływie paniki lub bólu nie będzie mogło zrobić Ci
+                krzywdy.</note><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_5_Connect_42_ul_qfj_lr4_4tb" nd:nd-id="ul_qfj_lr4_4tb">
+                <li class="- topic/li ">Jedno ze źródeł świeżej wody:<ul class="- topic/ul " id="unique_5_Connect_42_ul_dgd_4r4_4tb" nd:nd-id="ul_dgd_4r4_4tb">
+                        <li class="- topic/li ">Strzykawkę z wodą<b class="+ topic/ph hi-d/b "> lub</b></li>
+                        <li class="- topic/li ">Obficie nasączony wacik <b class="+ topic/ph hi-d/b ">lub </b></li>
+                        <li class="- topic/li ">Wąż ogrodowy z wodą o niskim ciśnieniu</li>
+                    </ul></li>
+                <li class="- topic/li ">Rękawiczki jednorazowe</li>
+            </ul></prereq>
+        <context class="- topic/section task/context "><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Unieruchom zwierzę tak, aby nie było w stanie kąsać ani drapać.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Oceń sytuację:</cmd>
+                <choices class="- topic/ul task/choices " id="unique_5_Connect_42_choices_u5m_zr4_4tb" nd:nd-id="choices_u5m_zr4_4tb">
+                    <choice class="- topic/li task/choice ">Jeśli zwierzę nie jest w stanie otworzyć powiek uszkodzonego oka,
+                        natychmiast <b class="+ topic/ph hi-d/b ">udaj się do weterynarza</b>.</choice>
+                    <choice class="- topic/li task/choice ">
+                        <p class="- topic/p ">Jeśli powieki są ruchome, rozewrzyj je delikatnie palcami i oceń wnętrze
+                            oka:</p>
+                        <ul class="- topic/ul " id="unique_5_Connect_42_ul_ly3_bs4_4tb" nd:nd-id="ul_ly3_bs4_4tb">
+                            <li class="- topic/li ">Jeśli ciało obce jest niewidoczne lub nastąpiło poparzenie chlorem
+                                lub cementem, delikatnie lecz obficie opłukuj oko do skutku.</li>
+                            <li class="- topic/li ">Jeśli ciało obce jest duże i widoczne, spróbuj je usunąć
+                                mechanicznie i następnie opłukać oko.</li>
+                        </ul>
+                    </choice>
+                </choices>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Każdy uraz oka należy traktować jako poważny - po udzieleniu pierwszej pomocy
+                    niezwłocznie <b class="+ topic/ph hi-d/b ">udaj się do weterynarza</b> celem oceny dalszego
+                    postępowania.</cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_5_Connect_42_postreq_y4h_2s4_4tb" nd:nd-id="postreq_y4h_2s4_4tb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_5_Connect_42_ul_slv_2s4_4tb" nd:nd-id="ul_slv_2s4_4tb">
+                <li class="- topic/li ">Usuń z zasięgu zwierzęcia wszelkie chemiczne środki trzymane w domu, w
+                    szczególności żrące.</li>
+                <li class="- topic/li ">Chroń zwierzęta wychodzące przed dostępem do chemikaliów na zewnątrz, na
+                    przykład na placu budowy czy podczas remontu.</li>
+                <li class="- topic/li ">Jeśli pupilowi mieszkającemu w klatce często zdarza się zaprószenie oka, należy
+                    uważnie przyjrzeć się sianu i trawom podawanym do jedzenia, a także ściółce -
+                    niektóre z nich mają drobnoziarnisty osad. Warto odsiać zawartość w dłoniach lub
+                    w sitku nylonowym przed wyłożeniem jej w klatce albo przetestować inny
+                    produkt.</li>
+            </ul></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="t_odmrozenie_hipotermia" oid="t_odmrozenie_hipotermia" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Odmrożenie/hipotermia</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zwierzę wychłodziło się, jest osłabione, brak czucia.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_6_Connect_42_prereq_q1j_ms4_4tb" nd:nd-id="prereq_q1j_ms4_4tb"><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_6_Connect_42_ul_ntf_4s4_4tb" nd:nd-id="ul_ntf_4s4_4tb">
+                <li class="- topic/li ">Ręcznik</li>
+                <li class="- topic/li ">Koc</li>
+                <li class="- topic/li ">Wanna lub szeroka miska</li>
+                <li class="- topic/li ">Woda z możliwością regulacji temperatury</li>
+            </ul></prereq>
+        <context class="- topic/section task/context "><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Jeśli zwierzę jest mokre, wytrzyj je dokładnie.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Owiń zwierzę kocem.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Przygotuj kąpiel w wannie lub miednicy, zaczynając od letniej wody.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Wsadź pupila do wody dolewaj coraz cieplejszej wody - oceń temperaturę wody
+                    poprzez wsadzenie do wody swojego nadgarstka.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Rób okłady na narządy peryferyjne wystające ponad wodę, np. uszy czy
+                    ogon.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Po 10 minutach oceń stan zwierzęcia:</cmd>
+                <choices class="- topic/ul task/choices " id="unique_6_Connect_42_choices_s5s_ys4_4tb" nd:nd-id="choices_s5s_ys4_4tb">
+                    <choice class="- topic/li task/choice ">Jeśli krążenie i czucie wróci, skóra zrobi się silnie czerwona.<note class="- topic/note " id="unique_6_Connect_42_note_i1j_12q_ptb" nd:nd-id="note_i1j_12q_ptb">Jeśli zwierzę poczuje silne nieprzyjemne
+                            mrowienie, może próbować gryźć swoją skórę, żeby sobie ulżyć - nie
+                            dopuść do tego.</note></choice>
+                    <choice class="- topic/li task/choice ">Jeśli krążenie nie wróci, osusz zwierzę i <b class="+ topic/ph hi-d/b ">udaj się do
+                        weterynarza</b>.</choice>
+                </choices>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_6_Connect_42_postreq_q5p_2t4_4tb" nd:nd-id="postreq_q5p_2t4_4tb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_6_Connect_42_ul_cg3_ft4_4tb" nd:nd-id="ul_cg3_ft4_4tb">
+                <li class="- topic/li ">Nie dopuszczaj do długotrwałego przebywania zwierzęcia w niesprzyjających
+                    warunkach pogodowych.</li>
+                <li class="- topic/li ">Małe zwierzęta domowe szczególnie narażone na zmiany temperatury nie powinny
+                    przebywać na zewnątrz w zimnych miesiącach.</li>
+                <li class="- topic/li ">Psy małe, z małą ilością tkanki tłuszczowej i/lub z krótką sierścią powinny
+                    zostać zaopatrzone w odzież przeciwdeszczową oraz ocieplaną.</li>
+            </ul></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="t_oparzenie_cieplem" oid="t_oparzenie_cieplem" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Oparzenie ciepłem</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zwierzę oparzyło się np. wrzątkiem.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_7_Connect_42_prereq_dkg_lt4_4tb" nd:nd-id="prereq_dkg_lt4_4tb"><note class="- topic/note " id="unique_7_Connect_42_note_kbk_qqq_ptb" nd:nd-id="note_kbk_qqq_ptb" type="important">
+                <p class="- topic/p " dir="ltr" id="unique_7_Connect_42_docs-internal-guid-af6d450a-7fff-adca-8edd-43a4e32a1bbd" nd:nd-id="docs-internal-guid-af6d450a-7fff-adca-8edd-43a4e32a1bbd">Poparzenie
+                    więcej niż 50% ciała zwierzęcia może doprowadzić do jego śmierci.</p>
+                <p class="- topic/p " dir="ltr">Na oparzenia nigdy nie stosuj waty i włóknistych materiałów, gdyż mogą
+                    przywrzeć do rany.</p>
+            </note><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_7_Connect_42_ul_us1_mt4_4tb" nd:nd-id="ul_us1_mt4_4tb">
+                <li class="- topic/li ">Dostęp do zimnej bieżącej wody</li>
+                <li class="- topic/li ">Gazik</li>
+                <li class="- topic/li ">Bandaż</li>
+            </ul></prereq>
+        <context class="- topic/section task/context " id="unique_7_Connect_42_context_ys3_tpq_ptb" nd:nd-id="context_ys3_tpq_ptb"><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps " id="unique_7_Connect_42_steps_zs3_tpq_ptb" nd:nd-id="steps_zs3_tpq_ptb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Oblej oparzone miejsce dużą ilością zimnej wody.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">W przypadku poważnych oparzeń, zakryj ranę gazikiem i luźno obandażuj.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Udaj się do weterynarza</b>.</cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_7_Connect_42_postreq_w4x_m54_4tb" nd:nd-id="postreq_w4x_m54_4tb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_7_Connect_42_ul_y3x_n54_4tb" nd:nd-id="ul_y3x_n54_4tb">
+                <li class="- topic/li ">Usuń z zasięgu zwierzęcia wszelkie gorące przedmioty.</li>
+            </ul></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="t_oparzenie" oid="t_oparzenie" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Oparzenie substancją</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zwierzę spożyło lub dotknęło żrącej substancji.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_8_Connect_42_prereq_dkg_lt4_4tb" nd:nd-id="prereq_dkg_lt4_4tb"><note class="- topic/note " id="unique_8_Connect_42_note_kbk_qqq_ptb" nd:nd-id="note_kbk_qqq_ptb" type="important">
+                <p class="- topic/p " dir="ltr" id="unique_8_Connect_42_docs-internal-guid-af6d450a-7fff-adca-8edd-43a4e32a1bbd" nd:nd-id="docs-internal-guid-af6d450a-7fff-adca-8edd-43a4e32a1bbd">Poparzenie
+                    więcej niż 50% ciała zwierzęcia może doprowadzić do jego śmierci.</p>
+                <p class="- topic/p " dir="ltr">Na oparzenia nigdy nie stosuj waty i włóknistych materiałów, gdyż mogą
+                    przywrzeć do rany.</p>
+            </note><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_8_Connect_42_ul_us1_mt4_4tb" nd:nd-id="ul_us1_mt4_4tb">
+                <li class="- topic/li ">Dostęp do zimnej bieżącej wody</li>
+                <li class="- topic/li ">Mydło</li>
+                <li class="- topic/li ">Soda oczyszczona</li>
+                <li class="- topic/li ">Ocet</li>
+                <li class="- topic/li ">Strzykawka</li>
+                <li class="- topic/li ">Rękawiczki jednorazowe</li>
+            </ul></prereq>
+        <context class="- topic/section task/context "><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Rozpoznaj rodzaj oparzenia:</cmd>
+                <choices class="- topic/ul task/choices " id="unique_8_Connect_42_choices_fsz_tt4_4tb" nd:nd-id="choices_fsz_tt4_4tb">
+                    <choice class="- topic/li task/choice ">Wewnętrzne (połknięcie żrącej substancji):<ol class="- topic/ol " id="unique_8_Connect_42_ol_nr2_zt4_4tb" nd:nd-id="ol_nr2_zt4_4tb">
+                            <li class="- topic/li ">Zachęć zwierzę do wypicia dużej ilości wody, w razie konieczności
+                                podaj wodę strzykawką.</li>
+                            <li class="- topic/li ">Zneutralizuj substancję w zależności od jej odczynu:<ul class="- topic/ul " id="unique_8_Connect_42_ul_vsm_154_4tb" nd:nd-id="ul_vsm_154_4tb">
+                                    <li class="- topic/li ">Jeśli zwierzę połknęło kwas, zaaplikuj roztwór sody
+                                        oczyszczonej.</li>
+                                    <li class="- topic/li ">Jeśli zwierzę połknęło substancję zasadową, zaaplikuj
+                                        roztwór wody z octem.</li>
+                                </ul></li>
+                            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Udaj się do weterynarza</b>.</li>
+                        </ol></choice>
+                    <choice class="- topic/li task/choice ">Zewnętrzne (skóra, śluzówka):<ol class="- topic/ol " id="unique_8_Connect_42_ol_xzp_xt4_4tb" nd:nd-id="ol_xzp_xt4_4tb">
+                            <li class="- topic/li ">Opłucz zwierzę dokładnie bieżącą wodą.</li>
+                            <li class="- topic/li ">Delikatnie umyj oparzone miejsce mydłem i wodą, spłucz
+                                dokładnie.</li>
+                        </ol></choice>
+                </choices>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_8_Connect_42_postreq_w4x_m54_4tb" nd:nd-id="postreq_w4x_m54_4tb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_8_Connect_42_ul_y3x_n54_4tb" nd:nd-id="ul_y3x_n54_4tb">
+                <li class="- topic/li ">Usuń z zasięgu zwierzęcia wszelkie chemiczne środki trzymane w domu, w
+                    szczególności żrące.</li>
+            </ul></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="t_rany_i_otarcia" oid="t_rany_i_otarcia" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Otarcia</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zwierzę ma zdarty naskórek, np. na spodniej części łap.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_9_Connect_42_prereq_jxv_yv4_4tb" nd:nd-id="prereq_jxv_yv4_4tb"><note class="- topic/note " id="unique_9_Connect_42_note_yhj_2w4_4tb" nd:nd-id="note_yhj_2w4_4tb" type="attention">Jeśli rana
+                krwawi, przejdź do artykułu <xref class="- topic/xref " href="#unique_4" type="task"><?ditaot gentext?>Krwawienie<?ditaot genshortdesc?><desc class="- topic/desc ">Zwierzę skaleczyło się, rana krwawi.</desc></xref>.</note><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_9_Connect_42_ul_xlb_1w4_4tb" nd:nd-id="ul_xlb_1w4_4tb">
+                <li class="- topic/li ">Plaster w rolce</li>
+                <li class="- topic/li " dir="ltr">Preparat dezynfekujący, np. Octenisept lub Dermatol</li>
+                <li class="- topic/li " dir="ltr">Źródło bieżącej zimnej wody</li>
+                <li class="- topic/li " dir="ltr">Gazik/kompres sterylny</li>
+                <li class="- topic/li " dir="ltr">Bandaż elastyczny lub weterynaryjny</li>
+                <li class="- topic/li " dir="ltr">Rękawiczki jednorazowe</li>
+            </ul></prereq>
+        <context class="- topic/section task/context "><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Oczyść wstępnie ranę, polewając ją bieżącą wodą.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Odkaź otarcie środkiem dezynfekującym.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Wytrzyj otarcie gazikiem do sucha.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Czy z otarcia sączy się krew?</cmd>
+                <choices class="- topic/ul task/choices " id="unique_9_Connect_42_choices_kvt_btq_ptb" nd:nd-id="choices_kvt_btq_ptb">
+                    <choice class="- topic/li task/choice ">Jeśli nie, nie nakładaj opatrunku.</choice>
+                    <choice class="- topic/li task/choice ">Jeśli tak, przykryj otarcie gazikiem/kompresem i obandażuj.</choice>
+                </choices>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_9_Connect_42_postreq_exf_vw4_4tb" nd:nd-id="postreq_exf_vw4_4tb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_9_Connect_42_ul_emb_bx4_4tb" nd:nd-id="ul_emb_bx4_4tb">
+                <li class="- topic/li ">Nie spuszczaj zwierzęcia ze smyczy na nieznanym otwartym terenie - w trawie może
+                    znajdować się rozbite szkło lub zardzewiałe elementy.</li>
+                <li class="- topic/li ">Zabierz ostre/niebezpieczne przedmioty z zasięgu zwierzęcia.</li>
+                <li class="- topic/li ">Wydziel przestrzeń, w której zwierzę może bezpiecznie przebywać bez
+                    nadzoru.</li>
+            </ul></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="t_porazenie_pradem" oid="t_porazenie_pradem" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Porażenie prądem</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zwierzę zostało porażone, np. wskutek przegryzienia kabla.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_10_Connect_42_prereq_dkg_lt4_4tb" nd:nd-id="prereq_dkg_lt4_4tb">
+            <note class="- topic/note " id="unique_10_Connect_42_note_kbk_qqq_ptb" nd:nd-id="note_kbk_qqq_ptb" type="important">
+                <p class="- topic/p " dir="ltr" id="unique_10_Connect_42_docs-internal-guid-af6d450a-7fff-adca-8edd-43a4e32a1bbd" nd:nd-id="docs-internal-guid-af6d450a-7fff-adca-8edd-43a4e32a1bbd">Poparzenie
+                    więcej niż 50% ciała zwierzęcia może doprowadzić do jego śmierci.</p>
+                <p class="- topic/p " dir="ltr">Na oparzenia nigdy nie stosuj waty i włóknistych materiałów, gdyż mogą
+                    przywrzeć do rany.</p>
+            </note>
+        </prereq>
+        <context class="- topic/section task/context " id="unique_10_Connect_42_context_ys3_tpq_ptb" nd:nd-id="context_ys3_tpq_ptb"><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps " id="unique_10_Connect_42_steps_zs3_tpq_ptb" nd:nd-id="steps_zs3_tpq_ptb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Odłącz urządzenie od prądu.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Sprawdź oddech i tętno zwierzęcia.</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_10_Connect_42_substeps_fyv_jqq_ptb" nd:nd-id="substeps_fyv_jqq_ptb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Rozpocznij reanimację w razie potrzeby.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Po udzieleniu pomocy <b class="+ topic/ph hi-d/b ">udaj się do weterynarza</b>.</cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_10_Connect_42_postreq_w4x_m54_4tb" nd:nd-id="postreq_w4x_m54_4tb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_10_Connect_42_ul_y3x_n54_4tb" nd:nd-id="ul_y3x_n54_4tb">
+                <li class="- topic/li ">Usuń z zasięgu zwierzęcia łatwe do nadgryzienia przewody elektryczne.</li>
+            </ul></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="t_rany_ciete" oid="t_rany_ciete" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Rany cięte</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zwierzę rozdarło skórę np. o ostre narzędzie.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_11_Connect_42_prereq_jxv_yv4_4tb" nd:nd-id="prereq_jxv_yv4_4tb"><note class="- topic/note " id="unique_11_Connect_42_note_yhj_2w4_4tb" nd:nd-id="note_yhj_2w4_4tb" type="attention">Jeśli rana
+                krwawi, przejdź do artykułu <xref class="- topic/xref " href="#unique_4" type="task"><?ditaot gentext?>Krwawienie<?ditaot genshortdesc?><desc class="- topic/desc ">Zwierzę skaleczyło się, rana krwawi.</desc></xref>.</note><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_11_Connect_42_ul_xlb_1w4_4tb" nd:nd-id="ul_xlb_1w4_4tb">
+                <li class="- topic/li ">Plaster w rolce</li>
+                <li class="- topic/li " dir="ltr">Gazik/kompres sterylny</li>
+                <li class="- topic/li " dir="ltr">Bandaż elastyczny lub weterynaryjny</li>
+                <li class="- topic/li " dir="ltr">Rękawiczki jednorazowe</li>
+            </ul></prereq>
+        <context class="- topic/section task/context " id="unique_11_Connect_42_context_mh4_l5q_ptb" nd:nd-id="context_mh4_l5q_ptb"><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps " id="unique_11_Connect_42_steps_nh4_l5q_ptb" nd:nd-id="steps_nh4_l5q_ptb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Zatamuj krwawienie, jeśli występuje - uciśnij ranę czystym gazikiem.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Wyczyść ranę tylko gdy jest to niezbędne.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Oceń głębokość rany – jeśli jest większa niż 1 cm, po założeniu opatrunku
+                        <b class="+ topic/ph hi-d/b ">udaj się do weterynarza</b> celem założenia szwów.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Powoli, ale stanowczo złącz przeciwległe końce rany.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Co centymetr przyklej plastry w taki sposób, aby krzyżowały się tuż nad
+                    rozcięciem.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Przyłóż gazik/kompres.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Zabezpiecz opatrunek bandażem.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Zmieniaj opatrunek co dwie doby.</cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_11_Connect_42_postreq_exf_vw4_4tb" nd:nd-id="postreq_exf_vw4_4tb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_11_Connect_42_ul_emb_bx4_4tb" nd:nd-id="ul_emb_bx4_4tb">
+                <li class="- topic/li ">Nie spuszczaj zwierzęcia ze smyczy na nieznanym otwartym terenie - w trawie może
+                    znajdować się rozbite szkło lub zardzewiałe elementy.</li>
+                <li class="- topic/li ">Zabierz ostre/niebezpieczne przedmioty z zasięgu zwierzęcia.</li>
+                <li class="- topic/li ">Wydziel przestrzeń, w której zwierzę może bezpiecznie przebywać bez
+                    nadzoru.</li>
+            </ul></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="t_rany_klute" oid="t_rany_klute" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Rany kłute</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zwierzę doznało głębokiego punktowego skaleczenia.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_12_Connect_42_prereq_jxv_yv4_4tb" nd:nd-id="prereq_jxv_yv4_4tb"><note class="- topic/note " id="unique_12_Connect_42_note_yhj_2w4_4tb" nd:nd-id="note_yhj_2w4_4tb" type="attention">Jeśli rana
+                krwawi, przejdź do artykułu <xref class="- topic/xref " href="#unique_4" type="task"><?ditaot gentext?>Krwawienie<?ditaot genshortdesc?><desc class="- topic/desc ">Zwierzę skaleczyło się, rana krwawi.</desc></xref>.</note><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_12_Connect_42_ul_xlb_1w4_4tb" nd:nd-id="ul_xlb_1w4_4tb">
+                <li class="- topic/li ">Maszynka</li>
+                <li class="- topic/li " dir="ltr">Środek do dezynfekcji</li>
+                <li class="- topic/li " dir="ltr">Pęseta</li>
+                <li class="- topic/li " dir="ltr">Rękawiczki jednorazowe</li>
+            </ul></prereq>
+        <context class="- topic/section task/context " id="unique_12_Connect_42_context_mh4_l5q_ptb" nd:nd-id="context_mh4_l5q_ptb"><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps " id="unique_12_Connect_42_steps_nh4_l5q_ptb" nd:nd-id="steps_nh4_l5q_ptb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Ostrzyż sierść dookoła rany maszynką, jeśli to możliwe.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Zbadaj, czy w środku rany nie tkwi ciało obce.</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_12_Connect_42_substeps_wry_nvq_ptb" nd:nd-id="substeps_wry_nvq_ptb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Jeśli tak, usuń je ostrożnie zdezynfekowaną pęsetą.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Przepłucz bądź przemyj ranę środkiem dezynfekującym.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Nie zakrywaj skaleczenia, dopóki rana się sączy.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Jeśli uważasz, że rana jest głęboka, <b class="+ topic/ph hi-d/b ">udaj się do weterynarza</b> celem
+                    zaaplikowania antybiotyku.</cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_12_Connect_42_postreq_exf_vw4_4tb" nd:nd-id="postreq_exf_vw4_4tb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_12_Connect_42_ul_emb_bx4_4tb" nd:nd-id="ul_emb_bx4_4tb">
+                <li class="- topic/li ">Nie spuszczaj zwierzęcia ze smyczy na nieznanym otwartym terenie - w trawie może
+                    znajdować się rozbite szkło lub zardzewiałe elementy.</li>
+                <li class="- topic/li ">Zabierz ostre/niebezpieczne przedmioty z zasięgu zwierzęcia.</li>
+                <li class="- topic/li ">Wydziel przestrzeń, w której zwierzę może bezpiecznie przebywać bez
+                    nadzoru.</li>
+            </ul></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="t_rany_szarpane" oid="t_rany_szarpane" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Rany szarpane</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zwierzę ma rozerwaną skórę, np. wskutek ugryzienia.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_13_Connect_42_prereq_jxv_yv4_4tb" nd:nd-id="prereq_jxv_yv4_4tb"><note class="- topic/note " id="unique_13_Connect_42_note_yhj_2w4_4tb" nd:nd-id="note_yhj_2w4_4tb" type="attention">Jeśli rana
+                krwawi, przejdź do artykułu <xref class="- topic/xref " href="#unique_4" type="task"><?ditaot gentext?>Krwawienie<?ditaot genshortdesc?><desc class="- topic/desc ">Zwierzę skaleczyło się, rana krwawi.</desc></xref>.</note><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_13_Connect_42_ul_xlb_1w4_4tb" nd:nd-id="ul_xlb_1w4_4tb">
+                <li class="- topic/li " dir="ltr">Środek do dezynfekcji w proszku, np. Dermatol lub zasypka
+                    antybiotykowa</li>
+                <li class="- topic/li " dir="ltr">Pęseta</li>
+                <li class="- topic/li ">Gaza</li>
+                <li class="- topic/li " dir="ltr">Rękawiczki jednorazowe</li>
+            </ul></prereq>
+        <context class="- topic/section task/context " id="unique_13_Connect_42_context_mh4_l5q_ptb" nd:nd-id="context_mh4_l5q_ptb"><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps " id="unique_13_Connect_42_steps_nh4_l5q_ptb" nd:nd-id="steps_nh4_l5q_ptb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Dokładnie przemyj ranę środkiem dezynfekującym.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Zbadaj, czy w środku rany nie tkwi ciało obce.</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_13_Connect_42_substeps_wry_nvq_ptb" nd:nd-id="substeps_wry_nvq_ptb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Jeśli tak, usuń je ostrożnie zdezynfekowaną pęsetą.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Zaaplikuj środek dezynfekujący w proszku.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Przykryj ranę gazą i owiń bandażem.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Udaj się do weterynarza</b> celem oceny dalszego postępowania.</cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_13_Connect_42_postreq_exf_vw4_4tb" nd:nd-id="postreq_exf_vw4_4tb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_13_Connect_42_ul_emb_bx4_4tb" nd:nd-id="ul_emb_bx4_4tb">
+                <li class="- topic/li ">Nie spuszczaj zwierzęcia ze smyczy na nieznanym otwartym terenie - w trawie może
+                    znajdować się rozbite szkło lub zardzewiałe elementy.</li>
+                <li class="- topic/li ">Zabierz ostre/niebezpieczne przedmioty z zasięgu zwierzęcia.</li>
+                <li class="- topic/li ">Wydziel przestrzeń, w której zwierzę może bezpiecznie przebywać bez
+                    nadzoru.</li>
+            </ul></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="t_udar_cieplny" oid="t_udar_cieplny" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Udar cieplny</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zwierzę dyszy, łapczywie chwyta powietrze, jest wyczerpane, ma ciemnoczerwone
+        dziąsła, możliwa utrata przytomności.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_14_Connect_42_prereq_qgx_fy4_4tb" nd:nd-id="prereq_qgx_fy4_4tb"><note class="- topic/note " id="unique_14_Connect_42_note_nsx_qhw_ptb" nd:nd-id="note_nsx_qhw_ptb">Udar cieplny częściej przydarza
+                się zwierzętom mniejszym, starszym, o ciemnej i/lub grubej sierści. Dochodzi do
+                niego w warunkach długotrwałej podwyższonej temperatury otoczenia przy jednoczesnym
+                braku możliwości ochłodzenia się.</note><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_14_Connect_42_ul_r2h_jy4_4tb" nd:nd-id="ul_r2h_jy4_4tb">
+                <li class="- topic/li ">Chłodna woda do polewania i picia</li>
+            </ul></prereq>
+        <context class="- topic/section task/context "><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Obniż temperaturę ciała zwierzęcia:</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_14_Connect_42_substeps_f4p_my4_4tb" nd:nd-id="substeps_f4p_my4_4tb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Przenieś zwierzę w chłodniejsze, lepiej wentylowane miejsce.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Udostępnij wodę pitną, najlepiej chłodną.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Polewaj całe ciało chłodną wodą.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Nie zmuszaj do poruszania się - w razie potrzeby przenieś zwierzę na
+                            rękach.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Jeśli po 10 minutach nie nastąpi zauważalna poprawa, <b class="+ topic/ph hi-d/b ">udaj się do
+                        weterynarza</b>.</cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_14_Connect_42_postreq_akg_5y4_4tb" nd:nd-id="postreq_akg_5y4_4tb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_14_Connect_42_ul_vjv_5y4_4tb" nd:nd-id="ul_vjv_5y4_4tb">
+                <li class="- topic/li ">Nie dopuszczaj do sytuacji, w których Twoje zwierzę nie ma możliwości się samo i
+                    regularnie schłodzić - wentyluj pomieszczenia, zasłaniaj okna, nie stawiaj
+                    klatki zwierzaka w miejscu, gdzie operuje słońce.</li>
+                <li class="- topic/li ">Zapewnij dostęp do wody zarówno w domu, w ogrodzie jak i na spacerach.<ul class="- topic/ul " id="unique_14_Connect_42_ul_kr2_xy4_4tb" nd:nd-id="ul_kr2_xy4_4tb">
+                        <li class="- topic/li ">Zaopatrz się w butelkę z wmontowaną miską.</li>
+                        <li class="- topic/li ">Szykując się na dłuższy spacer, możesz wrzucić kostki lodu do wody w
+                            butelce.</li>
+                    </ul></li>
+                <li class="- topic/li ">Nie zostawiaj zwierzęcia w zamkniętym samochodzie, gdy świeci słońce. Promienie
+                    słoneczne nagrzewają wnętrze auta bardzo szybko - nawet jeśli temperatura na
+                    zewnątrz jest komfortowa. <ul class="- topic/ul " id="unique_14_Connect_42_ul_am3_yy4_4tb" nd:nd-id="ul_am3_yy4_4tb">
+                        <li class="- topic/li ">Jeśli musisz zostawić zwierzę samo, zaparkuj w zacienionym miejscu,
+                            zostaw włączoną klimatyzację lub uchyl okna, by powstał przeciąg.</li>
+                        <li class="- topic/li ">Zostaw za szybą czytelną informację o włączonej klimatyzacji.</li>
+                    </ul></li>
+            </ul><note class="- topic/note " id="unique_14_Connect_42_note_yvr_vz4_4tb" nd:nd-id="note_yvr_vz4_4tb" type="important">Zgodnie z art. 26 par. 1 Kodeksu
+                karnego: <q class="- topic/q "><i class="+ topic/ph hi-d/i ">Nie popełnia przestępstwa, kto działa w celu uchylenia bezpośredniego
+                        niebezpieczeństwa grożącego jakiemukolwiek dobru chronionemu prawem, jeżeli
+                        niebezpieczeństwa nie można inaczej uniknąć, a dobro poświęcone przedstawia
+                        wartość niższą od dobra ratowanego.</i></q> Wynika z tego, że <b class="+ topic/ph hi-d/b ">nie
+                    zostanie ukarana osoba, która wybije szybę w rozgrzanym aucie</b>, aby ratować
+                pozostawione tam zwierzę. Karze podlegać może osoba, która naraziła zwierzę na
+                niebezpieczeństwo (utratę zdrowia lub życia).</note></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="t_zadlawienie" oid="t_zadlawienie" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Zadławienie</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zwierzę krztusi się, próbuje wymiotować.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_15_Connect_42_prereq_rfm_x1p_4tb" nd:nd-id="prereq_rfm_x1p_4tb"><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_15_Connect_42_ul_ik4_y1p_4tb" nd:nd-id="ul_ik4_y1p_4tb">
+                <li class="- topic/li ">Twardy przedmiot do zaklinowania szczęki zwierzęcia</li>
+                <li class="- topic/li ">Pęseta do usunięcia ciała obcego</li>
+            </ul></prereq>
+        <context class="- topic/section task/context "><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Oceń sytuację:</cmd>
+                <choices class="- topic/ul task/choices " id="unique_15_Connect_42_choices_pmg_dbp_4tb" nd:nd-id="choices_pmg_dbp_4tb">
+                    <choice class="- topic/li task/choice ">
+                        <p class="- topic/p ">Jeśli zwierzę stosunkowo dobrze oddycha, <b class="+ topic/ph hi-d/b ">udaj się do
+                            weterynarza</b>.</p>
+                    </choice>
+                    <choice class="- topic/li task/choice ">
+                        <p class="- topic/p ">Jeśli zwierzę jest na granicy utraty przytomności i ma siny język:</p>
+                        <ol class="- topic/ol " id="unique_15_Connect_42_ol_vrg_2bp_4tb" nd:nd-id="ol_vrg_2bp_4tb">
+                            <li class="- topic/li ">Zaklinuj jakiś twardy przedmiot w szczęce pupila tak, aby nie mógł
+                                zamknąć pyska.</li>
+                            <li class="- topic/li ">Sprawdź, czy w obrębie gardła jest widoczne ciało obce - jeśli tak,
+                                wyciągnij je palcami lub pęsetą.</li>
+                            <li class="- topic/li ">Jeśli powyższe kroki nie pomogły, a zwierzę jest stosunkowo małe,
+                                złap je za tylne kończyny, unieś głową w dół i potrząśnij kilka
+                                razy.</li>
+                            <li class="- topic/li ">Jeśli powyższe kroki nie pomogły, przeprowadź sztuczne oddychanie
+                                metodą usta-nos.</li>
+                        </ol>
+                    </choice>
+                </choices>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_15_Connect_42_postreq_kyy_fbp_4tb" nd:nd-id="postreq_kyy_fbp_4tb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_15_Connect_42_ul_b2v_gbp_4tb" nd:nd-id="ul_b2v_gbp_4tb">
+                <li class="- topic/li ">Jeśli zwierzę ma skłonność do brania do pyska i połykania bądź zabawy
+                    przedmiotami do tego nieprzeznaczonymi, każdorazowo uprzątaj otoczenie, w którym
+                    przebywa pupil.</li>
+                <li class="- topic/li ">Na spacery zakładaj psu kaganiec siateczkowy zapobiegający braniu przedmiotów do
+                    pyska.</li>
+            </ul></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="t_zatrucie_pokarmowe" oid="t_zatrucie_pokarmowe" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Zatrucie u psa</ph></title>
+    <shortdesc class="- topic/shortdesc ">Pies ma bolesny brzuch, biegunkę, wymiotuje.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_16_Connect_42_prereq_md4_14q_ptb" nd:nd-id="prereq_md4_14q_ptb"><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_16_Connect_42_ul_m5y_xcp_4tb" nd:nd-id="ul_m5y_xcp_4tb">
+                <li class="- topic/li ">Preparat absorbujący toksyny, np. węgiel aktywny</li>
+                <li class="- topic/li ">Lek łagodzący dolegliwości żołądkowe, np. Smecta</li>
+                <li class="- topic/li ">Wodę pitną</li>
+            </ul></prereq>
+        <context class="- topic/section task/context "><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Nie karm psa przez dobę. Zapewnij dostęp do świeżej wody i obserwuj jego
+                    zachowanie.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Oceń sytuację:</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_16_Connect_42_substeps_fnx_zjq_ptb" nd:nd-id="substeps_fnx_zjq_ptb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Jeśli biegunka ustała i nie ma innych objawów, przez najbliższe 3 dni
+                            karm psa mniejszymi porcjami lekkostrawnego jedzenia.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Jeśli biegunka nie ustała, <b class="+ topic/ph hi-d/b ">skontaktuj się z weterynarzem
+                                telefonicznie</b>, opisz objawy, ostatnie posiłki zwierzęcia i
+                            wymień dostępne leki. Nie stosuj leków bez dobrania odpowiedniej dawki i
+                            ustalenia kolejności ich zastosowania!</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Jeśli sytuacja jest pilna, a nie masz możliwości kontaktu z
+                            weterynarzem, podaj psu rozgnieciony i wymieszany z wodą węgiel
+                            aktywny.</cmd>
+                        <info class="- topic/itemgroup task/info ">
+                            <note class="- topic/note " id="unique_16_Connect_42_note_pgr_smq_ptb" nd:nd-id="note_pgr_smq_ptb">Cząsteczki węgla wiążą się słabo lub wcale z
+                                alkoholami, metalami ciężkimi oraz ksylitolem. Więcej o stosowaniu
+                                węgla: <xref class="- topic/xref " format="html" href="https://magwet.pl/34838,bezpieczna-dekontaminacja-zoladka-u-psow-z-podejrzeniem-zatrucia?page=2" scope="external"><?ditaot usertext?><u class="+ topic/ph hi-d/u ">Bezpieczna dekontaminacja
+                                        żołądka u psów z podejrzeniem zatrucia</u></xref>.</note>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_16_Connect_42_postreq_jx1_2mq_ptb" nd:nd-id="postreq_jx1_2mq_ptb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_16_Connect_42_ul_d4y_2mq_ptb" nd:nd-id="ul_d4y_2mq_ptb">
+                <li class="- topic/li ">Regularnie myj pojemniki, w których trzymasz pożywienie dla swoich pupili.</li>
+                <li class="- topic/li ">Mięso, surowe produkty i otwarte puszki trzymaj w lodówce.</li>
+                <li class="- topic/li ">Obserwuj zwierzę na spacerach i nie dopuszczaj do zjadania z ziemi produktów
+                    nieznanego pochodzenia.</li>
+                <li class="- topic/li " dir="ltr">Sporządź łatwo dostępną listę składników oraz produktów trujących dla
+                    Twojego pupila i bezwzględnie usuń je z zasięgu zwierzaka.<ul class="- topic/ul " id="unique_16_Connect_42_ul_udd_kmq_ptb" nd:nd-id="ul_udd_kmq_ptb">
+                        <li class="- topic/li ">Jeśli oddajesz pupila pod opiekę na czas swojej nieobecności, dostarcz
+                            tymczasowemu opiekunowi tę listę.</li>
+                    </ul></li>
+            </ul></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="t_zatrucie_reszta" oid="t_zatrucie_reszta" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Zatrucie u kota/gryzonia</ph></title>
+    <shortdesc class="- topic/shortdesc ">Kot lub gryzoń ma bolesny brzuch, biegunkę, wymioty.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_17_Connect_42_prereq_x5v_c4q_ptb" nd:nd-id="prereq_x5v_c4q_ptb"><note class="- topic/note " id="unique_17_Connect_42_note_z1v_hnq_ptb" nd:nd-id="note_z1v_hnq_ptb" type="warning">Zatrucie
+                prowadzące do głodówki jest niebezpieczne dla wszystkich zwierząt domowych z
+                wyjątkiem psów. Z tego powodu należy szybko reagować na problemy żołądkowe u swoich
+                kotów, gryzoni i królików, aby nie dopuścić do uszkodzenia wątroby lub zaburzenia
+                równowagi mikroflory w przewodzie pokarmowym.</note><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_17_Connect_42_ul_m5y_xcp_4tb" nd:nd-id="ul_m5y_xcp_4tb">
+                <li class="- topic/li ">Wodę pitną</li>
+                <li class="- topic/li ">Strzykawkę</li>
+            </ul></prereq>
+        <context class="- topic/section task/context " id="unique_17_Connect_42_context_h1y_bnq_ptb" nd:nd-id="context_h1y_bnq_ptb"><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps " id="unique_17_Connect_42_steps_i1y_bnq_ptb" nd:nd-id="steps_i1y_bnq_ptb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Udaj się do weterynarza</b> najszybciej jak to możliwe. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Do tego czasu lub po wizycie:</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_17_Connect_42_substeps_fnx_zjq_ptb" nd:nd-id="substeps_fnx_zjq_ptb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Wyczyść i odkaź klatkę/kuwetę, wypierz zabrudzone materiały.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Wykąp zwierzę, jeśli jest to możliwe.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Zapewnij dostęp do wody pitnej.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Jeśli zwierzę nie chce przyjmować płynów, spróbuj aplikować małe porcje
+                            wody strzykawką do pyszczka.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_17_Connect_42_postreq_jx1_2mq_ptb" nd:nd-id="postreq_jx1_2mq_ptb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_17_Connect_42_ul_d4y_2mq_ptb" nd:nd-id="ul_d4y_2mq_ptb">
+                <li class="- topic/li ">Regularnie myj pojemniki, w których trzymasz pożywienie dla swoich pupili.</li>
+                <li class="- topic/li ">Pożywienie, poidło oraz kuwetę ustaw w klatce jak najdalej od siebie i
+                    regularnie porządkuj klatkę - rośliny zamoczone wodą lub moczem szybko
+                    pleśnieją.</li>
+                <li class="- topic/li ">Selekcjonuj zerwane przez siebie rośliny. Podawaj tylko te, które jesteś w
+                    stanie zidentyfikować jako bezpieczne.</li>
+                <li class="- topic/li " dir="ltr">Sporządź łatwo dostępną listę składników oraz produktów trujących dla
+                    Twojego pupila i bezwzględnie usuń je z zasięgu zwierzaka.<ul class="- topic/ul " id="unique_17_Connect_42_ul_udd_kmq_ptb" nd:nd-id="ul_udd_kmq_ptb">
+                        <li class="- topic/li ">Jeśli oddajesz pupila pod opiekę na czas swojej nieobecności, dostarcz
+                            tymczasowemu opiekunowi tę listę.</li>
+                    </ul></li>
+            </ul></postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="t_zlamanie" oid="t_zlamanie" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Złamanie</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zwierzę doznało złamania kości, możliwe przerwanie ciągłości skóry.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_18_Connect_42_prereq_x52_scp_4tb" nd:nd-id="prereq_x52_scp_4tb"><note class="- topic/note " id="unique_18_Connect_42_note_tf2_1dp_4tb" nd:nd-id="note_tf2_1dp_4tb" type="danger">Złamania są
+                jednymi z najboleśniejszych wypadków. Cierpiące zwierzę może ugryźć lub boleśnie
+                podrapać w przypływie bólu i paniki. Upewnij się, że możesz bezpiecznie przystąpić
+                do udzielania pierwszej pomocy. W razie konieczności zastosuj kaganiec lub
+                unieruchom zwierzę.</note><b class="+ topic/ph hi-d/b ">Przygotuj:</b><ul class="- topic/ul " id="unique_18_Connect_42_ul_m5y_xcp_4tb" nd:nd-id="ul_m5y_xcp_4tb">
+                <li class="- topic/li ">Bandaż elastyczny lub weterynaryjny</li>
+                <li class="- topic/li ">Higroskopijna wata opatrunkowa</li>
+                <li class="- topic/li ">Prowizoryczne nosze - duży koc lub chusta</li>
+            </ul></prereq>
+        <context class="- topic/section task/context "><b class="+ topic/ph hi-d/b ">Instrukcja:</b></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Upewnij się, że możesz bezpiecznie udzielić pomocy.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Oceń stan zwierzęcia i znajdź miejsce złamania:</cmd>
+                <choices class="- topic/ul task/choices " id="unique_18_Connect_42_choices_cfx_hdp_4tb" nd:nd-id="choices_cfx_hdp_4tb">
+                    <choice class="- topic/li task/choice "><b class="+ topic/ph hi-d/b ">Kończyna</b> - załóż bandaż metodą Roberta Jonesa:<ol class="- topic/ol " id="unique_18_Connect_42_ol_fdh_4dp_4tb" nd:nd-id="ol_fdh_4dp_4tb">
+                            <li class="- topic/li ">Przyłóż dwa plastry wzdłuż kończyny klejem do zewnątrz.</li>
+                            <li class="- topic/li ">Owiń równomiernie watą miejsce złamania oraz miejsca nad i pod
+                                złamaniem.</li>
+                            <li class="- topic/li ">Ściśle owiń opatrunek bandażem.</li>
+                            <li class="- topic/li ">Wywiń końce plastra na założony bandaż.</li>
+                        </ol><image alt="Robert Jones' bandage method" class="- topic/image " href="file:/C:/Users/Ania/Desktop/anna-kielar/pierwsza%20pomoc%20przedweterynaryjna/topics/Robert_Jones_method.PNG" id="unique_18_Connect_42_image_edc_m2p_4tb" nd:nd-id="image_edc_m2p_4tb" placement="inline"/></choice>
+                    <choice class="- topic/li task/choice "><b class="+ topic/ph hi-d/b ">Kręgosłup</b> - jeśli zwierzę nie rusza tylnymi lub żadnymi
+                        kończynami, przetocz zwierzę delikatnie na koc lub chustę i przenieś do
+                        auta.</choice>
+                    <choice class="- topic/li task/choice "><b class="+ topic/ph hi-d/b ">Miednica</b> - jeśli zwierzę ma problem ze staniem i/lub poruszaniem
+                        na tylnych nogach, przenieś zwierzę do auta.</choice>
+                </choices>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">Udaj się do weterynarza</b>.</cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_18_Connect_42_postreq_ofn_q2p_4tb" nd:nd-id="postreq_ofn_q2p_4tb"><b class="+ topic/ph hi-d/b ">Profilaktyka:</b><ul class="- topic/ul " id="unique_18_Connect_42_ul_xxf_r2p_4tb" nd:nd-id="ul_xxf_r2p_4tb">
+                <li class="- topic/li ">Warto wozić w aucie koc lub dużą chustę.</li>
+                <li class="- topic/li ">Nadzoruj zabawę małych dzieci ze zwierzętami. Dziecko może upuścić małe zwierzę
+                    z dużej wysokości.</li>
+                <li class="- topic/li ">Naucz dziecko, jak bezpiecznie bawić się ze zwierzętami.</li>
+            </ul></postreq>
+    </taskbody>
+</task></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_19" topicrefclass="- map/topicref " nd:nd-id="c_apteczka" oid="c_apteczka" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Apteczka</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Nie istnieje jeden oficjalny spis rzeczy obowiązkowych w zwierzęcej apteczce. Różne firmy
+            zoologiczne proponują gotowe zestawy, jednak najlepiej jest skompletować wyposażenie
+            samodzielnie. Część produktów jest dostępna w sklepach zoologicznych oraz w internecie,
+            część w aptece bez lub na receptę, niektóre natomiast dostępne są wyłącznie u
+            weterynarza. </p>
+        <p class="- topic/p ">Zwierzęta domowe są narażone na drobne wypadki: otarcia, zwichnięcia, skaleczenia,
+            zatrucia skutkujące biegunką i odwodnieniem.</p>
+        <p class="- topic/p ">Zwierzęta wychodzące narażone są dodatkowo na ukąszenia owadów, w tym kleszczy. Możliwe
+            są także potrącenia przez samochód skutkujące zwichnięciami, złamaniami, poważnymi
+            ranami otwartymi, krwotokami wewnętrznymi. Na wsi czy na wycieczce po lesie pupil może
+            zostać ukąszony przez węża. Na spacerze zwierzę może wejść w rozbite szkło, zardzewiały
+            drut, wdać się w bójkę z innym zwierzęciem, zjeść z ziemi substancję niewiadomego
+            pochodzenia. W zimie łapy psów narażone są na podrażnienia spowodowane solą rozsypaną na
+            chodnikach.</p>
+        <p class="- topic/p ">Zanim świadomie skompletujesz apteczkę, zastanów się, na jakie sytuacje najczęściej
+            narażony jest Twój pupil oraz czy choruje przewlekle.</p>
+    </conbody>
+<topic class="- topic/topic " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="top_apteczka_preparaty_apteczne" oid="top_apteczka_preparaty_apteczne" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Akcesoria</ph></title>
+    <body class="- topic/body ">
+        <table class="- topic/table " id="unique_20_Connect_42_table_bq2_cnq_ltb" nd:nd-id="table_bq2_cnq_ltb">
+            <tgroup class="- topic/tgroup " cols="3">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;8:53" xtrf="file:/C:/Users/Ania/Desktop/anna-kielar/pierwsza%20pomoc%20przedweterynaryjna/topics/top_apteczka_artykuly_akcesoria.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;9:53" xtrf="file:/C:/Users/Ania/Desktop/anna-kielar/pierwsza%20pomoc%20przedweterynaryjna/topics/top_apteczka_artykuly_akcesoria.dita"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" xtrc="colspec:3;10:53" xtrf="file:/C:/Users/Ania/Desktop/anna-kielar/pierwsza%20pomoc%20przedweterynaryjna/topics/top_apteczka_artykuly_akcesoria.dita"/>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Produkt</b></entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Zastosowanie</b></entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Uwagi</b></entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="2">samoprzylepne elastyczne bandaże weterynaryjne o różnych
+                            szerokościach</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="2">drobne rany i skaleczenia zabezpieczone małym gazikiem lub
+                            kompresem. Zabezpieczenie pyska większego zwierzęcia, które może
+                            próbować ugryźć w przypływie bólu i paniki.</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="2">Na rynku dostępne są bandaże gorzkie w smaku, co zniechęca
+                            zwierzęta do próby zdjęcia zębami opatrunku. Rozmiar bandaża dostosuj do
+                            wielkości zwierzęcia.</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="3">uniwersalny bandaż elastyczny</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="3">większe rany, skaleczenia, obrażenia wymagające
+                            usztywnienia kończyny</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="3">Nie stosować zapinek - końcówkę bandaża lepiej zabezpieczyć
+                            plastrem.</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="4">plaster papierowy lub materiałowy</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="4">zabezpieczenie małego opatrunku, zabezpieczenie końcówek
+                            bandaża na większym opatrunku</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="4">Najlepiej zakupić plaster w rolce, aby móc samemu odmierzyć
+                            dowolną długość.</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="5">gaziki i kompresy jałowe</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="5">oczyszczenie ran i otarć przy pomocy środka
+                            dezynfekującego, bezpośredni opatrunek służący do tamowania krwawienia
+                            czy zabezpieczenia skaleczenia</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="5">Chropowata struktura gazików pozwala na oczyszczenie rany.
+                            Kompresy materiałowe służą do bezpośredniego zabezpieczania ran.</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="6">pęseta</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="6">wyciągnięcie żądła, ciernia, czy innego ciała obcego
+                            tkwiącego w ranie</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="6">Warto także zakupić osobną pęsetę (często w formie
+                            breloczka) ułatwiającą wyciąganie kleszczy. </entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="7">termometr</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="7">pomiar temperatury</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="7">Warto zaopatrzyć się także w wazelinę ułatwiającą aplikację
+                            termometru.</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="8">strzykawka (bez igły)</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="8">wprowadzenie leków do pyska zwierzęcia</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="8">Dostosuj wielkość strzykawki do pyska zwierzęcia.</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="9">rękawiczki jednorazowe (lateksowe, winylowe, etc.)</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="9">zabezpieczenie dłoni np. w kontakcie z krwią lub podczas
+                            usuwania kleszcza</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="9">Najlepiej zaopatrzyć się w kilka par różnego rozmiaru, aby
+                            w udzielaniu pomocy mogło asystować więcej osób.</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="10">dziecięce skarpetki</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="10">dodatkowe zabezpieczenie opatrunku na kończynie</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="10">Bezpieczny zamiennik dla opatrunku uciskowego. Można
+                            dodatkowo odciąć końcówkę skarpety, aby móc założyć ją na dowolną
+                            wysokość kończyny pupila.</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="11">nożyczki</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="11">cięcie gazików, kompresów czy plastrów na mniejsze
+                            elementy; rozcinanie założonych opatrunków</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="11">Warto zakupić model zakończony nieostro, tzw. bezpieczne
+                            nożyczki.</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="12">wata higroskopijna</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="12">umożliwia założenie bezpiecznego miękkiego opatrunku na
+                            złamaną kończynę</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="12">Wata z drogerii kosmetycznych nie jest produktem
+                            higroskopijnym.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic><topic class="- topic/topic " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="top_apteczka_preparaty_apteczne" oid="top_apteczka_preparaty_apteczne" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Preparaty apteczne</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Każdy z preparatów aptecznych wymienionych poniżej ma swój weterynaryjny odpowiednik
+            możliwy do zakupu w internecie, sklepie zoologicznym lub u weterynarza. <b class="+ topic/ph hi-d/b ">Decydując się
+                na zakup preparatów dedykowanych zwierzętom należy liczyć się z nawet parokrotnie
+                większym kosztem.</b></p>
+        <note class="- topic/note " id="unique_21_Connect_42_note_wh1_v3w_ptb" nd:nd-id="note_wh1_v3w_ptb">
+            <p class="- topic/p " dir="ltr" id="unique_21_Connect_42_docs-internal-guid-d64c79d3-7fff-7887-6f97-9192ea4b7cd6" nd:nd-id="docs-internal-guid-d64c79d3-7fff-7887-6f97-9192ea4b7cd6">Pamiętaj,
+                aby:</p>
+            <ul class="- topic/ul " id="unique_21_Connect_42_ul_o3z_fkq_ltb" nd:nd-id="ul_o3z_fkq_ltb">
+                <li class="- topic/li " dir="ltr">
+                    <p class="- topic/p " dir="ltr">Po każdym skorzystaniu z apteczki uzupełnić zużyte materiały oraz
+                        wymyć i odkazić użyte akcesoria.</p>
+                </li>
+                <li class="- topic/li " dir="ltr">
+                    <p class="- topic/p " dir="ltr">Co pół roku sprawdzać ważność leków i preparatów.</p>
+                </li>
+            </ul>
+        </note>
+        <note class="- topic/note " id="unique_21_Connect_42_note_pm1_tkq_ltb" nd:nd-id="note_pm1_tkq_ltb" type="caution">
+            <p class="- topic/p " dir="ltr" id="unique_21_Connect_42_docs-internal-guid-3afab5ca-7fff-8adb-0df2-faa098c26cf0" nd:nd-id="docs-internal-guid-3afab5ca-7fff-8adb-0df2-faa098c26cf0">Nigdy nie
+                podawaj psu leków ze swojej apteczki bez konsultacji z weterynarzem! </p>
+            <p class="- topic/p " dir="ltr">Dawkowanie dla ludzi i zwierząt może się różnić!</p>
+            <p class="- topic/p " dir="ltr">Sprawdź termin ważności leku zanim podasz go zwierzęciu!</p>
+        </note>
+        <table class="- topic/table " id="unique_21_Connect_42_table_qmd_4kq_ltb" nd:nd-id="table_qmd_4kq_ltb">
+            <tgroup class="- topic/tgroup " cols="4">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;31:53" xtrf="file:/C:/Users/Ania/Desktop/anna-kielar/pierwsza%20pomoc%20przedweterynaryjna/topics/top_apteczka_preparaty_apteczne.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;32:53" xtrf="file:/C:/Users/Ania/Desktop/anna-kielar/pierwsza%20pomoc%20przedweterynaryjna/topics/top_apteczka_preparaty_apteczne.dita"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" xtrc="colspec:3;33:53" xtrf="file:/C:/Users/Ania/Desktop/anna-kielar/pierwsza%20pomoc%20przedweterynaryjna/topics/top_apteczka_preparaty_apteczne.dita"/>
+                <colspec class="- topic/colspec " colname="col4" colnum="4" xtrc="colspec:4;34:53" xtrf="file:/C:/Users/Ania/Desktop/anna-kielar/pierwsza%20pomoc%20przedweterynaryjna/topics/top_apteczka_preparaty_apteczne.dita"/>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Rodzaj preparatu</b></entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Zastosowanie</b></entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Postać leku oraz droga podania</b></entry>
+                        <entry class="- topic/entry " colname="col4" dir="ltr" dita-ot:x="4" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Przykładowy preparat z apteki</b></entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="2">Lek absorbujący toksyny</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="2">biegunka, podejrzenie zatrucia</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="2">tabletkę rozgnieść i wymieszać z odrobiną wody</entry>
+                        <entry class="- topic/entry " colname="col4" dir="ltr" dita-ot:x="4" dita-ot:y="2">Węgiel aktywny</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="3">Lek rozkurczowy</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="3">ból brzucha, pęcherza moczowego</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="3">tabletkę podać doustnie</entry>
+                        <entry class="- topic/entry " colname="col4" dir="ltr" dita-ot:x="4" dita-ot:y="3">No-spa</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="4">Probiotyk</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="4">ochrona śluzówki przewodu pokarmowego po zatruciu lub w
+                            trakcie antybiotykoterapii</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="4">kapsułkę rozpuścić w łyżeczce wody i podać doustnie</entry>
+                        <entry class="- topic/entry " colname="col4" dir="ltr" dita-ot:x="4" dita-ot:y="4">Lakcid</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="5">Lek łagodzący dolegliwości żołądkowe</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="5">ochrona śluzówki przewodu pokarmowego po zatruciu</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="5">proszek rozpuścić w wodzie i podać doustnie</entry>
+                        <entry class="- topic/entry " colname="col4" dir="ltr" dita-ot:x="4" dita-ot:y="5">Smecta</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="6">Środek przeciwuczuleniowy</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="6">ukąszenie owada, alergia kontaktowa</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="6">tabletkę rozpuścić w wodzie i podać doustnie</entry>
+                        <entry class="- topic/entry " colname="col4" dir="ltr" dita-ot:x="4" dita-ot:y="6">Calcium bezsmakowe dowolnej marki</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="7">Preparat dezynfekujący</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="7">odkażanie ran i otarć</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="7">spray lub roztwór zaaplikować na skórę</entry>
+                        <entry class="- topic/entry " colname="col4" dir="ltr" dita-ot:x="4" dita-ot:y="7">Octenisept, ewentualnie woda utleniona</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="8">Preparat wielofunkcyjny do drobnych ran</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="8">hamuje drobne krwawienia, przeciwzapalny, odkażający,
+                            osuszający, ściągający</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="8">proszkiem posypać ranę</entry>
+                        <entry class="- topic/entry " colname="col4" dir="ltr" dita-ot:x="4" dita-ot:y="8">Dermatol</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="9">Preparat przeciwbólowy do stosowania na skórę</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="9">łagodzi ból po stłuczeniu, zwichnięciu czy naciągnięciu
+                            mięśnia</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="9">żel/maść wmasować w bolesne miejsce</entry>
+                        <entry class="- topic/entry " colname="col4" dir="ltr" dita-ot:x="4" dita-ot:y="9">Altacet, Voltaren</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="10">Preparat antystresowy</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="10">nagła sytuacja stresowa, choroba lokomocyjna</entry>
+                        <entry class="- topic/entry " colname="col3" dir="ltr" dita-ot:x="3" dita-ot:y="10">krople podać bezpośrednio na język, tabletkę podać wraz z
+                            przysmakiem</entry>
+                        <entry class="- topic/entry " colname="col4" dir="ltr" dita-ot:x="4" dita-ot:y="10">krople konopne, krople walerianowe, tryptofan</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic><topic class="- topic/topic " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="top_apteczka_preparaty_apteczne" oid="top_apteczka_preparaty_apteczne" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Artykuły spożywcze</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Do udzielenia pierwszej pomocy mogą okazać się przydatne artykuły spożywcze z naszej
+            kuchni. Zastosuj je, jeśli nie masz szybkiego dostępu do preparatów
+            specjalistycznych.</p>
+        <table class="- topic/table " id="unique_22_Connect_42_table_jbn_4lq_ltb" nd:nd-id="table_jbn_4lq_ltb">
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;11:53" xtrf="file:/C:/Users/Ania/Desktop/anna-kielar/pierwsza%20pomoc%20przedweterynaryjna/topics/top_apteczka_artykuly_spozywcze.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;12:53" xtrf="file:/C:/Users/Ania/Desktop/anna-kielar/pierwsza%20pomoc%20przedweterynaryjna/topics/top_apteczka_artykuly_spozywcze.dita"/>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Substancja / produkt</b></entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Działanie</b></entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="2">wywar z siemienia lnianego</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="2">przeciwbiegunkowe oraz łagodzące na podrażnienia przewodu
+                            pokarmowego</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="3">ocet</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="3">neutralizacja połkniętej substancji zasadowej</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="4">soda oczyszczona</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="4">neutralizacja połkniętej substancji kwasowej; okład na
+                            skórę po użądleniu</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="5">sól kuchenna</entry>
+                        <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="5">wywoływanie wymiotów przy zatruciu substancją
+                            nieżrącą</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <bodydiv class="- topic/bodydiv "/>
+    </body>
+</topic></concept></map>
